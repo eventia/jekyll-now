@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
+tagline: 저와 제 비젼을 소개합니다.
 permalink: /about.html
 ---
 
-자기소개페이지ㅣ
+자기소개페이지
 
 This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
 
